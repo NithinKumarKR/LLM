@@ -18,3 +18,4 @@ langchain-openai
 langchain_ollama
 langchain_openai
 langchain_community
+langchain_groq
