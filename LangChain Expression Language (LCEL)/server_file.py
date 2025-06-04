@@ -14,7 +14,6 @@ from typing import Dict
 # Load .env configuration file
 load_dotenv()
 
-
 # Setup the Groq model
 model = ChatGroq(model="Gemma2-9b-It", groq_api_key=groq_api_key)
 
