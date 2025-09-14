@@ -29,7 +29,7 @@ st.title("🤖 Q&A Chatbot using Groq + LangChain + LangSmith")
 temperature = st.sidebar.slider("Temperature", 0.0, 1.0, 0.7)
 max_tokens = st.sidebar.slider("Max Tokens", 50, 1024, 300)
 model_name = st.sidebar.selectbox("Choose Model", ["gemma2-9b-it", "llama-3.1-8b-instant", "llama-3.3-70b-versatile"], index=0)
-
+1
 # Memory setup
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
