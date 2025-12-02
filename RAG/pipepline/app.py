@@ -6,6 +6,10 @@ from vec_store import vectorstore
 from ll_model import llm   # assuming you define `llm` inside ll_model.py
 from rag_ret import *
 from rag import *
+from langchain_groq import ChatGroq
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # -------------------------------
 # Page Config
@@ -21,7 +25,7 @@ def load_data():
     st.info("📂 Loading and processing PDF documents...")
     
     # Step 1: Read PDFs
-    all_pdfs = process_all_pds("../data")
+    all_pdfs = process_all_pds(r"C:\Users\nithi\Desktop\GitHub\LLM\RAG\data")
     
     # Step 2: Split into chunks
     chunks = split_documents(all_pdfs)
@@ -65,8 +69,8 @@ if question:
     st.markdown("### ✅ Final Answer")
     st.write(result['answer'])
 
-    st.markdown("### 📝 Summary")
-    st.write(result['summary'])
+    #st.markdown("### 📝 Summary")
+    #st.write(result['summary'])
 
     #st.markdown("### 📜 Conversation History")
     #.write(result['history'][-1])

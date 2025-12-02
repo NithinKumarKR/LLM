@@ -1,0 +1,17 @@
+
+What is an Income Tax Calculator?
+An Income-tax calculator is an online tool that helps evaluate taxes based on a person’s income, respective tax slab and tax liability. Individuals falling under the taxable income bracket are liable to pay a specific portion of their net annual income as tax. One can choose between the old and new tax regimes, each having different tax rates and deductions. 
+
+Income tax can be paid as tax deducted at source (TDS) during the monthly salary disbursement or through the income tax returns portal managed by the Central Board of Direct Taxes (CBDT). The provision for online payment of taxes ensures that individuals pay their stipulated dues based on any earnings generated from other sources.
+
+The Income Tax calculator on this page is aligned with the updates announced in the Union Budget for FY 2025-26 and AY 2026-27.
+
+Budget 2025 Updates on Income Tax 
+The Union Budget 2025 introduced several significant changes in the income tax regime. Here are the key highlights - 
+
+The income tax rebate was hiked to ₹60,000 from the previous rebate limit of ₹25,000. Meaning, no tax liability on income up to ₹12 lakh under the new tax regime.
+The TDS limit on rent has been increased to ₹50,000 per month for FY 2025-26.
+The limit on tax deduction on interest for senior citizens has been increased from ₹50,000 to ₹1,00,000.
+In the case of Tax Collected at Source (TCS) on remittances under the Reserve Bank of India’s (RBI) Liberalized Remittance Scheme, the threshold has been increased to ₹10 Lakhs from the earlier limit of ₹7 Lakhs. Furthermore, TCS has been removed for education loans acquired to specified financial institutions.
+
+
